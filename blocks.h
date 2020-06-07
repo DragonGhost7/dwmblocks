@@ -5,7 +5,7 @@ static const Block blocks[] = {
 	{"", "~/.bin/cpu",							5,		1},
 	{"", "~/.bin/dwm_mail.sh",					6,		1},
 	{"", "~/.bin/dwm_battery.sh",				10,		1},
-	{"", "~/.bin/dwm_iw.sh",					3,		1},
+	{"", "~/.bin/internet",					    3,		1},
 	{"", "~/.bin/dwm_date.sh",					1,		1},
 	{";", "~/.bin/dwm_keyboard.sh",				0,		1},
 	{"", "~/.bin/music",						0,		11},
