@@ -3,9 +3,9 @@ My fork of dwmblocks with customs scripts, located in `/home/$USER/.bin/statusba
 
 ## updating blocks
 ```
-{
+
 kill -(update_signal + 34) $(pidof dwmblocks)
-}
+
 ```
 
 Use this code in external scripts to update specific modules if you add any new ones.
