@@ -9,7 +9,7 @@ static const Block blocks[] = {
 	{"", "~/.bin/statusbar/dwm_date.sh",					1,		1},
 	{";", "~/.bin/statusbar/dwm_keyboard.sh",				0,		1},
 	{"", "~/.bin/statusbar/rss",							5,		10},
-	{"", "~/.bin/statusbar/music",						0,		11},
+	{"", "~/.bin/statusbar/music",						5,		11},
 	{"", "~/.bin/statusbar/volume",						0,		9},
 	{"", "~/.bin/statusbar/weather",						3600,	8},
 };
