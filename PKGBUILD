@@ -1,6 +1,6 @@
 # Maintainer: Me lmao
 pkgname="dwmblocks"
-pkgver=r63.9c1977f
+pkgver=r64.e6efec6
 pkgrel=1
 pkgdesc="Modular status bar for dwm written in c."
 arch=('x86_64')

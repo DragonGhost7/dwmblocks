@@ -10,10 +10,10 @@ static const Block blocks[] = {
 	{";", "~/.bin/statusbar/dwm_keyboard.sh",				0,		1},
 	{"", "~/.bin/statusbar/rss",							5,		10},
 	{"", "~/.bin/statusbar/music",						5,		11},
-	{"", "~/.bin/statusbar/volume",						0,		9},
+	{"", "~/.bin/statusbar/volume",						3,		9},
 	{"", "~/.bin/statusbar/weather",						3600,	8},
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
-static char delim[] = " | ";
+static char delim[] = "|";
 static unsigned int delimLen = 5;
